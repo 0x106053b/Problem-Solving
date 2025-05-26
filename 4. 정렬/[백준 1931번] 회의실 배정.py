@@ -14,5 +14,4 @@ for x in arr:
             result.append(x)
             break
 
-# print(result)
 print(len(result))
